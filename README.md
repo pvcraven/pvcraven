@@ -3,7 +3,7 @@
 I'm currently working on:
 
 * [The Python Arcade Library](https://arcade.academy)
-
+* [Learn Python with Arcade Games](https://learn.arcade.academy)
 <!--
 **pvcraven/pvcraven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
