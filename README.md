@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-I'm a professor of computer science at [Simpson College](https://simpson.edu/) in 
-Indianola, Iowa.
-
 I'm currently working on:
 
 * [The Python Arcade Library](https://arcade.academy)
